@@ -1,0 +1,11 @@
+*.~
+*.tmp
+.idea/
+_book/
+*.swp
+*.edx
+.DS_Store
+
+node_modules/
+package-lock.json
+
