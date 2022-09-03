@@ -1,9 +1,5 @@
 <h1 align="center">指掌易中间件之 GlusterFS</h1>
 
-> 作者：liumanlin@zhizhangyi.com
->
-> 版权：北京指掌易科技有限公司
-
 ## 1 安装
 
 ```shell

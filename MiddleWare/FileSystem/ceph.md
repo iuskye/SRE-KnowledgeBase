@@ -1,11 +1,5 @@
 <h1 align="center">部署 Ceph 分布式存储平台</h1>
 
-> 作者：liumanlin@zhizhangyi.com
->
-> 版权：北京指掌易科技有限公司
->
-> 前提：准备三台虚拟机，搭建集群。
-
 ## 1 新建磁盘
 
 给三台虚拟机分别新增一块硬盘 /dev/sdb：
