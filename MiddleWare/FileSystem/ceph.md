@@ -1,4 +1,4 @@
-<h1 align="center">部署 Ceph 分布式存储平台</h1>
+<h1 align="center">初识 Ceph 分布式存储系统</h1>
 
 ## 1 新建磁盘
 
